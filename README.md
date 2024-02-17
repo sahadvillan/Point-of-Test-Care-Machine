@@ -4,3 +4,4 @@ Developed a Test machine prototype designed in SOLIDWORKS with the help of 3D pr
 I have used PyQt5 for GUI development,
 Open source image processing tools for the image detection and intensity calculation,
 You can find the device model and in the Image file,
+- 
