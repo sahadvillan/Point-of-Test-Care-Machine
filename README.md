@@ -10,7 +10,6 @@ The project aims to create a test machine prototype for point of care detection.
 Test Machine Prototype: Developed using SOLIDWORKS and fabricated with a 3D printer (Ender-3 3D-Drucker).
 - Graphical User Interface (GUI): Implemented using PyQt5 for intuitive user interaction.
 - Image Processing: Utilizes open-source image processing tools for image detection and intensity calculation.
-- Tools Used
 - SOLIDWORKS
 - 3D Printer (Ender-3 3D-Drucker)
 - PyQt5
